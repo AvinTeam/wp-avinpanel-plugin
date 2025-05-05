@@ -5,7 +5,7 @@
  * Plugin Name: پنل آوین
  * Plugin URI:  https://updater.mrrashidpour.com/
  * Description: پنل آوین.
- * Version:     1.1.10
+ * Version:     1.2.0W
  * Author:      Mohammadreza Rashidpour Aghamahali
  * Author URI:  https://mrrashidpour.com/
  * License:     GPLv2 or later
